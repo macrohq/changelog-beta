@@ -20,11 +20,11 @@ Once installed, Macro Beta automatically updates whenever newer releases are pub
 
 ## Current Release
 
-[v0.0.5-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.5-beta)
+[v0.0.6-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.6-beta)
 
 ## Current Changelog
 
-[v0.0.5-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.5-beta/changelog.md)
+[v0.0.6-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.6-beta/changelog.md)
 
 ## Troubleshooting
 
@@ -41,3 +41,4 @@ If you're having trouble running the newest version of Macro, try these troubles
  - Nitin Rajinikanth
  - Jamie Carr
  - Hyam Fayed
+ - Rehat Kathuria

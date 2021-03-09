@@ -20,11 +20,11 @@ Once installed, Macro Beta automatically updates whenever newer releases are pub
 
 ## Current Release
 
-[v0.0.7-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.7-beta)
+[v0.0.8-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.8-beta)
 
 ## Current Changelog
 
-[v0.0.7-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.7-beta/changelog.md)
+[v0.0.8-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.8-beta/changelog.md)
 
 ## Troubleshooting
 

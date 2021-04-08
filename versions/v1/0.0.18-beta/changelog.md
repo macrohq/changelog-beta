@@ -5,3 +5,4 @@
  - We were sending a lot of API calls so we've consolidated that a bit to prevent server overload.
  - Airtime was broken for a fwew people due to simultaneous socket connections. Now, we ensure only one connection exists so airtime should no longer be at 0%!
  - The video got a bit blurry at times with this new Zoom SDK. We've added some resolution updates to prevent this from happening.
+ - We now only set the Zoom link protocol after a user has finished onboarding and has hit homescreen.

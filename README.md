@@ -20,11 +20,11 @@ Once installed, Macro Beta automatically updates whenever newer releases are pub
 
 ## Current Release
 
-[v0.0.26-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.26-beta)
+[v0.0.27-beta](https://github.com/macrohq/changelog-beta/releases/tag/v0.0.27-beta)
 
 ## Current Changelog
 
-[v0.0.26-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.26-beta/changelog.md)
+[v0.0.27-beta](https://github.com/macrohq/changelog-beta/blob/main/versions/v1/0.0.27-beta/changelog.md)
 
 ## Troubleshooting
 
@@ -46,3 +46,4 @@ If you'd like to uninstall Macro, download and run the Macro Uninstaller.app [he
  - Jamie Carr
  - Hyam Fayed
  - Rehat Kathuria
+ - Charlie Peters

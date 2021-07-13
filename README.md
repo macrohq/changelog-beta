@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/img/Mac-Icon_256x256.png" width="100" height="100">
+	<img src="assets/img/icon_256x256.png" width="100" height="100">
 	<h1>Macro Beta</h1>
 	<p>
 		<b>Changelog and releases for the Macro beta app</b>

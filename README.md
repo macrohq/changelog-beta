@@ -47,3 +47,4 @@ If you'd like to uninstall Macro, download and run the Macro Uninstaller.app [he
  - Hyam Fayed
  - Rehat Kathuria
  - Charlie Peters
+ - Ahmad Kazi
